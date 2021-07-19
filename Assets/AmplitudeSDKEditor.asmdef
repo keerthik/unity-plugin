@@ -2,7 +2,9 @@
     "name": "AmplitudeSDKEditor",
     "references": [],
     "includePlatforms": [
-        "Editor"
+        "Editor",
+        "iOS",
+        "Android"
     ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
